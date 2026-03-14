@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos Sarabia Bejarano</h1>
-<h3 align="center">Progrmas para Telecomunicaciones en Perú</h3>
+<h3 align="center">Programas para Telecomunicaciones en Perú</h3>
 
 - 📫 How to reach me **juancarlossarabiabejarano@gmail.com**
 
